@@ -12,7 +12,7 @@ Developed as coursework for Dorset College.
 
 ## Contents
 
-- `Titanic LogisticRegression .ipynb` – Jupyter notebook for Titanic ML project  
+- `TitanicLogisticRegression.ipynb` – Jupyter notebook for Titanic ML project  
 - `IRIS.ipynb` – Jupyter notebook for Iris ML project  
 - Reports and documentation (PDF/Word): Titanic.pdf, Iris.pdf, etc.
 
